@@ -1945,6 +1945,10 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "matplotlib" },
+    { name = "openai" },
+    { name = "torch" },
+    { name = "torchaudio" },
+    { name = "torchvision" },
     { name = "transformers" },
     { name = "vllm" },
 ]
@@ -1952,6 +1956,10 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "matplotlib", specifier = ">=3.10.6" },
+    { name = "openai", specifier = ">=1.109.0" },
+    { name = "torch" },
+    { name = "torchaudio" },
+    { name = "torchvision" },
     { name = "transformers", specifier = ">=4.56.2" },
     { name = "vllm", specifier = ">=0.10.2" },
 ]

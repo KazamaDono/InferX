@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "matplotlib>=3.10.6",
+    "openai>=1.109.0",
     "torch",
     "torchaudio",
     "torchvision",
