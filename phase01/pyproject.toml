@@ -1,0 +1,14 @@
+[project]
+name = "phase01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "torch",
+    "torchaudio",
+    "torchvision",
+    "transformers>=4.56.2",
+    "vllm>=0.10.2",
+]
