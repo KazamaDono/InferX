@@ -1,1 +1,10 @@
-
+Hello, how are you?
+Explain the difference between latency and throughput in simple terms.
+Write a short story about a robot learning to paint.
+List three advantages of using asynchronous programming in Python.
+What are the main differences between GPT and BERT architectures?
+Summarize the causes of World War I in under 100 words.
+Generate a Python function that reverses a linked list.
+Imagine a conversation between a philosopher and an AI about free will.
+Provide a detailed explanation of how GPUs accelerate deep learning.
+Write a 500-word essay discussing the impact of climate change on agriculture.
