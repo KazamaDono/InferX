@@ -24,7 +24,7 @@ Deliverables / Features (as implemented in the provided files):
 ```bash
 phase2-benchmark-framework/
 ├── inferx_benchmark_framework.py 
-├── results/ 
+├── trials/ 
 │ └── run1/ 
 │   ├── metrics.csv
 │   ├── gpu_memory.csv
