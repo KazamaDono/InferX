@@ -4,11 +4,7 @@
 ```bash
 phase 01/
 ├─ README.md
-├─ requirements.txt
-├─ client.py
-├─ results_sample.csv
-├─ Phase_1._vllm_baseline_setup.pdf
-└─ screenshots/ # add screenshots here
+└─ client.py
 ```
 ---
 
